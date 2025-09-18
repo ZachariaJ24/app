@@ -501,7 +501,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.secretchelseasociety.app;
+				PRODUCT_BUNDLE_IDENTIFIER = secretchelsocietyintl.scs;
 				PRODUCT_NAME = SecretChelseaSocietyApp;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
