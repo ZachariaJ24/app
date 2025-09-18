@@ -1,16 +1,16 @@
-# iOS App Setup Instructions
+# Midnight Studios INTL iOS App Setup Instructions
 
 ## Important Note
 This iOS app project was created in a Linux environment and needs to be completed on macOS with Xcode installed.
 
 ## What's Already Done
 
-✅ React Native project structure created
+✅ React Native project structure created for Midnight Studios INTL
 ✅ WebView component configured to display www.secretchelsociety.com
 ✅ iOS project files and configurations created
-✅ App icons and launch screen configured
+✅ App icons and launch screen configured with Midnight Studios INTL branding
 ✅ Podfile created with necessary dependencies
-✅ Info.plist configured with proper permissions
+✅ Info.plist configured with proper permissions and bundle ID
 
 ## Steps to Complete on macOS
 
@@ -90,7 +90,7 @@ pod install
 
 ### 5. Testing the App
 
-The app should load and display the Secret Chelsea Society website in a full-screen WebView.
+The app should load and display the Secret Chelsea Society website in a full-screen WebView with Midnight Studios INTL branding.
 
 ## App Features
 
@@ -99,7 +99,8 @@ The app should load and display the Secret Chelsea Society website in a full-scr
 - ✅ Proper iOS navigation
 - ✅ Optimized for iPhone and iPad
 - ✅ App Transport Security configured
-- ✅ Native iOS app wrapper
+- ✅ Native iOS app wrapper with Midnight Studios INTL branding
+- ✅ Bundle ID: secretchelsocietyintl.scs
 
 ## Troubleshooting
 
@@ -126,9 +127,16 @@ cd ios && pod install && cd ..
 ## Next Steps for Production
 
 1. **App Icons**: Replace placeholders in `ios/SecretChelseaSocietyApp/Images.xcassets/AppIcon.appiconset/`
-2. **Launch Screen**: Customize `ios/SecretChelseaSocietyApp/LaunchScreen.storyboard`
-3. **App Store**: Configure app metadata and descriptions
+2. **Launch Screen**: Customize `ios/SecretChelseaSocietyApp/LaunchScreen.storyboard` (already updated with Midnight Studios INTL branding)
+3. **App Store**: Configure app metadata and descriptions for Midnight Studios INTL
 4. **Testing**: Test on various iOS devices and versions
 5. **Deployment**: Archive and upload to App Store Connect
 
-This app essentially creates a native iOS wrapper around your website, giving users the experience of a native app while displaying your web content.
+## App Details
+- **Developer**: Midnight Studios INTL
+- **App Name**: Midnight Studios INTL
+- **Bundle ID**: secretchelsocietyintl.scs
+- **Target Website**: www.secretchelsociety.com
+- **User Agent**: MidnightStudiosINTL/1.0
+
+This app creates a native iOS wrapper around your website, giving users the experience of a native app while displaying your web content under the Midnight Studios INTL brand.
