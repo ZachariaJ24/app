@@ -1,13 +1,13 @@
-# Secret Chelsea Society iOS App
+# Midnight Studios INTL iOS App
 
-This is a React Native iOS app that displays the Secret Chelsea Society website (www.secretchelsociety.com) in a native WebView.
+This is a React Native iOS app that displays the Secret Chelsea Society website (www.secretchelsociety.com) in a native WebView for Midnight Studios INTL.
 
 ## Features
 
 - Native iOS app wrapper for the website
 - WebView with proper configuration for optimal website display
 - App permissions configured for web content
-- Splash screen with app branding
+- Splash screen with Midnight Studios INTL branding
 - iPhone and iPad support
 
 ## Prerequisites
@@ -57,15 +57,15 @@ npx react-native run-ios
 The app is configured to display `https://www.secretchelsociety.com` with:
 - JavaScript enabled
 - DOM storage enabled
-- Proper user agent string
+- Proper user agent string (MidnightStudiosINTL/1.0)
 - Full-screen video support
 - Inline media playback
 - Third-party cookies enabled
 
 ### App Info
-- **App Name**: Secret Chelsea Society
-- **Bundle ID**: com.secretchelseasociety.app
-- **Display Name**: Secret Chelsea Society
+- **App Name**: Midnight Studios INTL
+- **Bundle ID**: secretchelsocietyintl.scs
+- **Display Name**: Midnight Studios INTL
 - **Version**: 1.0
 
 ### Network Security
@@ -142,3 +142,7 @@ This app simply wraps the existing website in a native iOS container. For websit
 For iOS app-specific issues:
 - Check React Native documentation: https://reactnative.dev/
 - Check React Native WebView documentation: https://github.com/react-native-webview/react-native-webview
+
+## About Midnight Studios INTL
+
+This iOS app is developed and maintained by Midnight Studios INTL for the Secret Chelsea Society project.
