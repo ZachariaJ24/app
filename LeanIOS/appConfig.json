@@ -27,9 +27,9 @@
       "fr"
     ],
     "nativeBridgeUrls": [],
-    "iosBundleId": "secrect.chel.society.xlderal",
+    "iosBundleId": "co.median.ios.xlderal",
     "iosVersionName": "1.2.2",
-    "androidPackageName": "secrect.chel.society",
+    "androidPackageName": "co.median.android.xlderal",
     "androidVersionName": "1.2.2",
     "androidSigningKey": "release",
     "injectMedianJS": true,
